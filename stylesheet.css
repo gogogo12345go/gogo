@@ -1,0 +1,49 @@
+
+*{
+ font-size:30px;
+p{
+font-size:100px;
+}
+
+ color:#666666;
+ margin:0;
+ padding:0;
+ border :dotted 1px #FF6600;
+}
+body{
+  text-align:left;
+  background-color:#DDFFDD;
+}
+
+h1{
+ font-size:50px;
+ padding:10px 20px 10px 20px;
+}
+
+p{
+  float:left;
+  padding:10px 30px 30px 10px;
+  margin:10px 200px
+}
+
+
+img{
+width:600px;
+height:300px;
+}
+
+
+h2
+font-size:20px;
+background-color:black;
+color:#FFFFFF;
+padding:5px 5px 5px 10px ;
+margin:20px 0px 20px 0px ;
+}
+
+p{
+ line-height:2em;
+ margin:10px 5px 20px 5px;
+}
+
+footer{
